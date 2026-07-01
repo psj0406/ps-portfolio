@@ -6,7 +6,7 @@
 ## Links 🔗
 
 - Live Demo: https://psj0406.vercel.app
-- Repository: https://github.com/psj0406/ps-portfolio
+- Repository: https://github.com/psj0406/seojin-portfolio
 
 ---
 
